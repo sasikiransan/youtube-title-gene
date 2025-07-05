@@ -119,7 +119,9 @@ streamlit run app.py
 
 ## 📋 Example Output
 
-**Input:**
+##   Input:
+
+
 ![pic2](assets/image2.png)
 ```
 For a sample i have mentioned a input in the assets in sampleinput1 file .
@@ -165,7 +167,11 @@ The analysis also touches upon BJP’s internal social engineering, balancing ca
 
 In conclusion, the video provides a comprehensive analysis of BJP’s strategic considerations for appointing a woman as All India President, emphasizing the intersection of gender politics, regional dynamics, electoral strategy, and internal party organization. The focus on South Indian women leaders symbolizes BJP’s ambition to expand in the region while aligning with broader political reforms and social expectations. This leadership move fits within a collective party framework led by Modi and Shah, leveraging gender and regional representation to navigate India’s evolving political landscape ahead of critical electoral milestones.
 ```
-**Output:**
+
+
+##   Output:
+
+
 ![pic 3](assets/image3.png)
 ```
 And the output is in the assets as well in sampleoutput1 file
