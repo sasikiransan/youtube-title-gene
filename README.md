@@ -120,24 +120,13 @@ streamlit run app.py
 ## 📋 Example Output
 
 **Input:**
-
+```
 For a sample i have mentioned a input in the assets in sampleinput1 file .
 ```
-"This is a video explaining the Top 5 Time Management Hacks for College Students."
-```
-
 **Output:**
-and the output is in the assets as well in sampleoutput1 file
 ```
-Title: 5 Genius Time Management Hacks Every College Student Needs ⏱️📚
-
-Description:
-Maximize your productivity and conquer deadlines with these 5 time management hacks that every student should know! 💡
-
-💥 Subscribe for more college survival tips!
-#StudentLife #ProductivityHacks #TimeManagement
+And the output is in the assets as well in sampleoutput1 file
 ```
-
 ---
 
 ## 🧠 How It Works
