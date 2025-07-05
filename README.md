@@ -3,6 +3,11 @@
 **Generate catchy, SEO-optimized YouTube titles and descriptions from video scripts using LLaMA 3 by Groq.**  
 Perfect for content creators looking to boost engagement with AI-generated metadata! 😄❤️
 
+
+##   APP
+ 
+[Live App on Streamlit](https://sasi-kiran-youtube-title-generator.streamlit.app/)
+ 
 ---
 
 ## 🚨 IMPORTANT BEFORE YOU START
