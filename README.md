@@ -82,8 +82,8 @@ yt-title-generator/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/yt-title-generator.git
-cd yt-title-generator
+git clone https://github.com/sasikiransan/youtube-title-gene
+cd youtube-title-gene
 
 # 2. Install dependencies
 pip install -r requirements.txt
