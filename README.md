@@ -139,7 +139,7 @@ And the output is in the assets as well in sampleoutput1 file
 
 ---
 
-## ✅ To-Do / Improvements (Optional)
+## ✅ To-Do / Improvements
 
 - Auto-publish to YouTube via YouTube Data API  
 - Export results to `.txt` or `.csv`  
